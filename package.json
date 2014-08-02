@@ -1,6 +1,6 @@
 {
   "name": "gulp-header",
-  "version": "1.0.5",
+  "version": "1.1",
   "description": "Gulp extension to add header to file(s) in the pipeline.",
   "main": "./index.js",
   "proxy": null,
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tracker1/gulp-header.git"
+    "url": "git://github.com/npup/gulp-header.git"
   },
   "keywords": [
     "header",
@@ -21,9 +21,9 @@
     "eventstream"
   ],
   "author": {
-      "name": "Michael J. Ryan",
-      "email": "mxryan@godaddy.com",
-      "url": "http://github.com/tracker1"
+      "name": "P. Envall",
+      "email": "petter.envall@gmail.com",
+      "url": "http://github.com/npup"
   },
   "contributors": [
     {
@@ -34,11 +34,16 @@
       "name": "Douglas Duteil",
       "email": "douglasduteil@gmail.com",
       "url": "http://github.com/douglasduteil"
+    },
+    {
+      "name": "P. Envall"
+      , "email": "petter.envall@gmail.com"
+      , "url": "https://github.com/npup"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tracker1/gulp-header/issues"
+    "url": "https://github.com/npup/gulp-header/issues"
   },
   "dependencies": {
     "event-stream": "*",
